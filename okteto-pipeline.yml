@@ -2,4 +2,4 @@ icon: https://img.shields.io/github/v/release/ITZ-ZAID/Zaid-Vc-Player?color=blac
 
 deploy:
 
-    - okteto stack deploy --build -f docker-compose.ymlhttps://mythus.fandom.com/wiki/Zombiehttps://mythus.fandom.com/wiki/Zombie
+    - okteto stack deploy --build -f docker-compose.yml
